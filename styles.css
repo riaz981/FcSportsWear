@@ -1,0 +1,225 @@
+#headerall{
+   
+    height: 100px;
+    border: 1px solid black;
+    margin-bottom: .25em;
+   
+    background-image: url('images/OurWorkBanner.jpg');
+   
+   
+    background-size:1350px 200px;
+    background-repeat:no-repeat;
+   
+}
+
+#outermostdiv{
+   
+    background-image: url('images/baseball_field_01Dark.jpg');
+    background-size: 1370px 700px;
+    background-repeat:x;
+    height: 44em;
+}
+#navigatorall{
+   
+    margin-top:-1em;
+}
+
+section {
+	padding: 15px 25px;
+}
+h1 { 
+	font-size: 150%;
+	margin-bottom: .5em;
+}
+#innerindex{
+   
+   margin-top:6em;
+    text-align: left;
+    margin-left: 17em;
+    height: auto;
+    color: white;
+}
+
+.riaz{
+   
+    height:40em;
+    margin-top: 5em;
+    margin-left: -50em;
+    margin-right: 300em;
+   
+
+}
+#clear{
+    margin-top: 3em;
+}
+
+#tabledescript{
+    height:26em;
+    margin-top:5em;
+    margin-left: 20em;
+    margin-right: 20em;
+    color: white;
+   
+}
+
+#tableOne{
+    padding: 8px 2px;
+    font-weight: normal;
+    font-size: 14px;
+    border: 2px solid whitesmoke;
+   
+    height: 24em;
+}
+
+#tableOne th{
+    margin-top:-1em;
+    font-weight: normal;
+    font-size: 14px;
+    border-bottom: 2px solid whitesmoke;
+   
+}
+
+#tableOne td{
+    margin-left:10em;
+    font-weight: normal;
+    font-size: 14px;
+    border-bottom: 2px solid whitesmoke;
+    border-left: 2px solid whitesmoke;
+   
+}
+
+#inner{
+   
+    text-align: left;
+    margin-left: 30em;
+    height: 30em;
+    color: white;
+}
+
+#footer{
+   
+    text-align: center;
+    color: white;
+}
+
+ul#mylist, ul.sub1{
+   
+    list-style-type: none;
+    color: black;
+    margin-left: 20em;
+}
+ul#mylist li{
+    margin:0em;
+    border: .12em solid black;
+    width: 6em;
+    text-align: center;
+    position: relative;
+    float: left;
+    background-color: white;
+   
+   
+   
+}
+
+ul#mylist ul.sub23{
+    border-width:0em;
+    display:none;
+    margin-left:-2.58em;
+    list-style-type: none;
+}
+
+ul#mylist li:hover .sub23{
+    display:block;
+   
+}
+
+ul#mylist a{
+   
+    text-decoration: none;
+    display: block;
+    color:#273849;
+}
+
+ul#mylist li:hover>a{
+    background-color: black;
+    color: white;
+}
+
+
+#innerlist{
+    margin-top: 3em;
+}
+
+ul#innerlist{
+   
+    list-style-type: none;
+    color: black;
+    margin-left: 2em;
+    margin-top: 3em;
+}
+ul#innerlist li{
+    
+    margin-left: 5em;
+    border: .12em solid black;
+    width: 6em;
+    text-align: center;
+    position: relative;
+   
+    background-color: white;
+   
+}
+
+ul#innerlist a{
+   
+    text-decoration: none;
+    display: block;
+    color:#273849;
+}
+
+ul#innerlist li:hover>a{
+    background-color: black;
+    color: white;
+}
+
+#cartview{
+    height:26em;
+    margin-top:5em;
+    margin-left: 20em;
+    margin-right: 20em;
+    color: white;
+}
+ul.button{
+   
+    list-style-type: none;
+    color: black;
+    margin-left: -2em;
+    margin-top: 2em;
+}
+ul.button li{
+    margin:0em;
+    border: .12em solid black;
+    width: 6em;
+    text-align: center;
+    position: relative;
+   
+    background-color: white;
+   
+}
+
+ul.button a{
+   
+    text-decoration: none;
+    display: block;
+    color:#273849;
+}
+
+ul.button li:hover>a{
+    background-color: black;
+    color: white;
+}
+
+#main{
+    margin-bottom: 2em;
+    margin-left: -5em;
+    width: 30em;
+}
